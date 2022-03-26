@@ -10,7 +10,7 @@
 @yield('title')
 <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500&amp;display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="{{ asset('/themes/storefront/public/css/app5ce3.css?v=2.0.9') }}">
+<link rel="stylesheet" href="{{ asset('/themes/storefront/css/app5ce3.css') }}">
 
 <link rel="stylesheet" href="">
 <link rel="shortcut icon" href="{{ asset('storage/media/oAtEJJgk1FWZv9MNjcmR1I9pNCrbGI2C7W0LXKDP.png') }}" type="image/x-icon">
@@ -150,7 +150,7 @@ ORDER NOW
 
 </div>
 <script data-cfasync="false" src="{{ asset('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}"></script>
-<script src="{{ asset('themes/storefront/public/js/app5ce3.js?v=2.0.9') }}"></script>
+<script src="{{ asset('themes/storefront/js/app5ce3.js') }}"></script>
 @yield('js')
 </body>
 

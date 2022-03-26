@@ -1215,7 +1215,8 @@ Purchase Now
 </a>
 </div>
 </div>
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="themes/storefront/public/js/app5ce3.js?v=2.0.9"></script>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
+<script src="{{ asset('themes/storefront/js/app5ce3.js') }}"></script>
 </body>
 
 <!-- Mirrored from fleetcart.envaysoft.com/ar by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Mar 2022 00:57:06 GMT -->

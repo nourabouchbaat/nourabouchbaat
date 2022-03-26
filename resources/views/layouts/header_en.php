@@ -11,7 +11,7 @@
                             FleetCart
                     </title>
 <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="themes/storefront/public/css/app5ce3.css?v=2.0.9">
+<link rel="stylesheet" href="{{ asset('themes/storefront/css/app5ce3.css') }}">
 <link rel="shortcut icon" href="storage/media/oAtEJJgk1FWZv9MNjcmR1I9pNCrbGI2C7W0LXKDP.png" type="image/x-icon">
 <script>
             window.FleetCart = {

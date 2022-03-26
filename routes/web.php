@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('accueil');
-});
+
+Route::get('/', 'AccueilController@index')->name('accueil');//->middleware('auth');
+
 Route::get('/accueil', 'AccueilController@index')->name('accueil');//->middleware('auth');
