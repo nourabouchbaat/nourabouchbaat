@@ -13,7 +13,7 @@ class Families extends Model
         'libelle_ar',
         'show'
     ];
-    public $categories = Categories::where('id_families',$this->id); 
-
-    //
+    public function categories() {
+        return Categories::where('id_families', $this->id);
+    }
 }
