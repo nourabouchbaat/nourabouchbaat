@@ -3,7 +3,10 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-
+use App\Models\Families;
+use App\Models\Categories;
+use App\Models\Products;
+use DB;
 class AccueilController extends Controller
 {
     /**
@@ -22,11 +25,11 @@ class AccueilController extends Controller
      * @return \Illuminate\Contracts\Support\Renderable
      */
     public function index()
-    {   
-        return view('accueil');
+    {
+        $family = Families::all();
+        dd($family);
+        return view('accueil')->with('families',$family);
     }
-}
-
 
 
 }
