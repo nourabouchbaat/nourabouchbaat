@@ -11,9 +11,11 @@ class Families extends Model
     protected $fillable = [
         'libelle_fr',
         'libelle_ar',
-        'show'
+        'show',
+        'icon',
+        'photo_menu'
     ];
     public function categories() {
-        return Categories::where('id_families', $this->id);
+        return Categories::where('id_families', $this->id)->get();
     }
 }

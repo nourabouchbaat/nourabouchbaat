@@ -30,10 +30,10 @@ class Products extends Model
         'published' 
     ];
     public function category() {
-        return Categories::find($this->id_categories);
+        return Categories::find($this->id_categories)->first();
     }
     public function family() {
-        return Families::find($this->category()->id);
+        return Families::find($this->category()->id)->first();
     }
 
 }

@@ -27,7 +27,7 @@ class AccueilController extends Controller
     public function index()
     {
         $family = Families::all();
-        dd($family);
+//        dd($family[0]->categories()[0]->products()[0]->id);
         return view('accueil')->with('families',$family);
     }
 
