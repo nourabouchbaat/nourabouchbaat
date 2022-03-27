@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use App\Models\Families;
 use App\Models\Categories;
 use App\Models\Products;
+use App\Models\AccueilSlide;
 use DB;
 class AccueilController extends Controller
 {
@@ -27,8 +28,9 @@ class AccueilController extends Controller
     public function index()
     {
         $family = Families::all();
-//        dd($family[0]->categories()[0]->products()[0]->id);
-        return view('accueil')->with('families',$family);
+        $topSlides = AccueilSlide::all();
+        return view('accueil')->with('families',$family)
+                                ->with('topSlides',$topSlides);
     }
 
 

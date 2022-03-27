@@ -1,5 +1,5 @@
 <?php
-include 'header_en.php';
+include 'header.php';
 ?>
 <section class="home-section-wrap">
     <div class="container">
@@ -70,5 +70,5 @@ include 'header_en.php';
     </div>
     </section>
     <?php
-include 'footer_en.php';
+include 'footer.php';
 ?>

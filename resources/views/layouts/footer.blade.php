@@ -1,54 +1,14 @@
-<home-features :features="[{&quot;icon&quot;:&quot;las la-headphones&quot;,&quot;title&quot;:&quot;24\/7 SUPPORT&quot;,&quot;subtitle&quot;:&quot;Support every time&quot;},{&quot;icon&quot;:&quot;las la-credit-card&quot;,&quot;title&quot;:&quot;ACCEPT PAYMENT&quot;,&quot;subtitle&quot;:&quot;Visa, Paypal, Master&quot;},{&quot;icon&quot;:&quot;las la-shield-alt&quot;,&quot;title&quot;:&quot;SECURED PAYMENT&quot;,&quot;subtitle&quot;:&quot;100% secured&quot;},{&quot;icon&quot;:&quot;las la-truck&quot;,&quot;title&quot;:&quot;FREE SHIPPING&quot;,&quot;subtitle&quot;:&quot;Order over $100&quot;},{&quot;icon&quot;:&quot;las la-calendar-minus&quot;,&quot;title&quot;:&quot;30 DAYS RETURN&quot;,&quot;subtitle&quot;:&quot;30 days guarantee&quot;}]"></home-features>
+<home-features :features="[{&quot;icon&quot;:&quot;las la-headphones&quot;,&quot;title&quot;:&quot;24\/7 SUPPORT&quot;,&quot;subtitle&quot;:&quot;Support every time&quot;},{&quot;icon&quot;:&quot;las la-credit-card&quot;,&quot;title&quot;:&quot;ACCEPT PAYMENT&quot;,&quot;subtitle&quot;:&quot;Visa, Master&quot;},{&quot;icon&quot;:&quot;las la-shield-alt&quot;,&quot;title&quot;:&quot;SECURED PAYMENT&quot;,&quot;subtitle&quot;:&quot;100% secured&quot;},{&quot;icon&quot;:&quot;las la-truck&quot;,&quot;title&quot;:&quot;FREE SHIPPING&quot;,&quot;subtitle&quot;:&quot;Order over 500 Dh&quot;},{&quot;icon&quot;:&quot;las la-calendar-minus&quot;,&quot;title&quot;:&quot;30 DAYS RETURN&quot;,&quot;subtitle&quot;:&quot;30 days guarantee&quot;}]"></home-features>
 <featured-categories :data="{&quot;title&quot;:&quot;Top Categories in Sales and Trending&quot;,&quot;subtitle&quot;:&quot;Last Month upto 1500+ Products Sales From this catagory. You can choose a product from here and save money.&quot;,&quot;categories&quot;:[{&quot;name&quot;:&quot;Laptops&quot;,&quot;logo&quot;:{&quot;id&quot;:1331,&quot;filename&quot;:&quot;laptop-145x145-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/2cZfkz85nXxlSTySz6R8m34u5UQLfiRQVyKjF8hm.png&quot;}},{&quot;name&quot;:&quot;Mobiles&quot;,&quot;logo&quot;:{&quot;id&quot;:1330,&quot;filename&quot;:&quot;mobile-145x145.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/UAP07Ygha9iXNfG1Rh6DYWrwVQ3HfkuqetLaLc6M.jpeg&quot;}},{&quot;name&quot;:&quot;Tablets&quot;,&quot;logo&quot;:{&quot;id&quot;:1335,&quot;filename&quot;:&quot;tablet-145x145.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/dzeszBwEcUnjWoixHvGYJD7uD2j6BWsy7TBK7tcJ.jpeg&quot;}},{&quot;name&quot;:&quot;Watches&quot;,&quot;logo&quot;:{&quot;id&quot;:1333,&quot;filename&quot;:&quot;watch-145x145.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/0Ae4WkaGunLTgTDf24i2ui0hhGB2kZPRVS5k7rn8.jpeg&quot;}},{&quot;name&quot;:&quot;Men&#039;s Fashion&quot;,&quot;logo&quot;:{&quot;id&quot;:1332,&quot;filename&quot;:&quot;sunglass-145x145.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/4vy12UtugCqB76AoWvy0cAHlzKb1HZsklmkOQ6hK.jpeg&quot;}},{&quot;name&quot;:&quot;Televisions&quot;,&quot;logo&quot;:{&quot;id&quot;:1334,&quot;filename&quot;:&quot;television-145x145-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/sjBHD1SNqe4BgkqmvqmWAB7U759HOZPVJRvV1Qbr.png&quot;}}]}"></featured-categories>
 <banner-three-column-full-width :data="{&quot;background&quot;:{&quot;image&quot;:{&quot;id&quot;:982,&quot;filename&quot;:&quot;banner-bg-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/vm21euwszrldK6E9iEtqsm2WtiJ4OyaA7VIGHPe3.png&quot;},&quot;call_to_action_url&quot;:null,&quot;open_in_new_window&quot;:false},&quot;banner_1&quot;:{&quot;image&quot;:{&quot;id&quot;:974,&quot;filename&quot;:&quot;03@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/SnNz5B0YIEGCw1OdLhFJbqF7hfCNc80adaLCdqOE.png&quot;},&quot;call_to_action_url&quot;:&quot;\/categories\/home-appliances\/products&quot;,&quot;open_in_new_window&quot;:false},&quot;banner_2&quot;:{&quot;image&quot;:{&quot;id&quot;:977,&quot;filename&quot;:&quot;04@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/3YFgcINuEaLyLvy6QjxKwKVDMALI9qzmXEN7Vqx3.png&quot;},&quot;call_to_action_url&quot;:&quot;\/categories\/home-appliances\/products&quot;,&quot;open_in_new_window&quot;:false},&quot;banner_3&quot;:{&quot;image&quot;:{&quot;id&quot;:976,&quot;filename&quot;:&quot;05@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/pmQxhyWNznFCMZvc4KTv4HNk4RfG3eBlNqR0xsCt.png&quot;},&quot;call_to_action_url&quot;:&quot;\/categories\/samsung\/products&quot;,&quot;open_in_new_window&quot;:false}}"></banner-three-column-full-width>
 <product-tabs-one :data="[&quot;Featured&quot;,&quot;Special&quot;,&quot;New Arrival&quot;,&quot;Latest&quot;]"></product-tabs-one>
-<top-brands :top-brands="[{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/asus\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1312,&quot;filename&quot;:&quot;Brand 01 \u2013 7@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/JnH5uK3QY3mOamQ8NsHCbtqj0xULHsjOTHtHTbeO.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/acer\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1313,&quot;filename&quot;:&quot;Brand 01 \u2013 6@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/rCfwklCfNTBKz4JGeloPqqI7BTS8PdYibzEkB8mS.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/adidas\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1305,&quot;filename&quot;:&quot;Brand 01 \u2013 1@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/H0BnQ6XoB6vBb1YAkRg22mncLS76Yv0zGz4T4M04.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/apple\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1319,&quot;filename&quot;:&quot;Brand 01 \u2013 11@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/jZG1juhijMhWSrn8B4jgsX5x4Vb8dOTdZTtGNACo.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/beats\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1306,&quot;filename&quot;:&quot;Brand 01 \u2013 4@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/3IcUp71JfyiH3wkWU0omhlcs0xqgdWzmY3Z4imMO.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/dell\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1314,&quot;filename&quot;:&quot;Brand 01 \u2013 9@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/8bmlnpJluQBwAAJolyS708652aY6Kj8dEmYQ7woo.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/hp\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1315,&quot;filename&quot;:&quot;Brand 01 \u2013 10@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/j2WP3lfi8JTanXQsxrNDclJAb2RHKxBOtlQwlK2g.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/huawei\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1317,&quot;filename&quot;:&quot;Brand 01 \u2013 5@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/SbgS1CCecSpvvnBeBmG6xP49q2NymXQzJpiHbMAi.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/lg\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1307,&quot;filename&quot;:&quot;Brand 01 \u2013 13@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/P9UF8sprnzBNqEnbAd2j82UA4b0fzk85uIZp4H4s.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/msi\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1308,&quot;filename&quot;:&quot;Brand 01 \u2013 12@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/8DfT3LNUhYbei3YrhJ1FscMVKiPPQi43LdCY29Am.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/levis\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1303,&quot;filename&quot;:&quot;Brand 01@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/Quysi8IloZADWNe2ZxeK98PN4FgHpoQWBXSnhlQV.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/ar\/brands\/samsung\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1318,&quot;filename&quot;:&quot;Brand 01 \u2013 8@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/nshpkDL124reDq8apPXBcpVrnV8ABDzC88R5gg3K.png&quot;}}]"></top-brands>
+<top-brands :top-brands="[{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/asus\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1312,&quot;filename&quot;:&quot;Brand 01 \u2013 7@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/JnH5uK3QY3mOamQ8NsHCbtqj0xULHsjOTHtHTbeO.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/acer\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1313,&quot;filename&quot;:&quot;Brand 01 \u2013 6@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/rCfwklCfNTBKz4JGeloPqqI7BTS8PdYibzEkB8mS.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/adidas\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1305,&quot;filename&quot;:&quot;Brand 01 \u2013 1@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/H0BnQ6XoB6vBb1YAkRg22mncLS76Yv0zGz4T4M04.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/apple\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1319,&quot;filename&quot;:&quot;Brand 01 \u2013 11@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/jZG1juhijMhWSrn8B4jgsX5x4Vb8dOTdZTtGNACo.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/beats\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1306,&quot;filename&quot;:&quot;Brand 01 \u2013 4@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/3IcUp71JfyiH3wkWU0omhlcs0xqgdWzmY3Z4imMO.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/dell\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1314,&quot;filename&quot;:&quot;Brand 01 \u2013 9@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/8bmlnpJluQBwAAJolyS708652aY6Kj8dEmYQ7woo.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/hp\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1315,&quot;filename&quot;:&quot;Brand 01 \u2013 10@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/j2WP3lfi8JTanXQsxrNDclJAb2RHKxBOtlQwlK2g.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/huawei\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1317,&quot;filename&quot;:&quot;Brand 01 \u2013 5@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/SbgS1CCecSpvvnBeBmG6xP49q2NymXQzJpiHbMAi.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/lg\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1307,&quot;filename&quot;:&quot;Brand 01 \u2013 13@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/P9UF8sprnzBNqEnbAd2j82UA4b0fzk85uIZp4H4s.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/msi\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1308,&quot;filename&quot;:&quot;Brand 01 \u2013 12@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/8DfT3LNUhYbei3YrhJ1FscMVKiPPQi43LdCY29Am.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/levis\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1303,&quot;filename&quot;:&quot;Brand 01@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/Quysi8IloZADWNe2ZxeK98PN4FgHpoQWBXSnhlQV.png&quot;}},{&quot;url&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/en\/brands\/samsung\/products&quot;,&quot;logo&quot;:{&quot;id&quot;:1318,&quot;filename&quot;:&quot;Brand 01 \u2013 8@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/nshpkDL124reDq8apPXBcpVrnV8ABDzC88R5gg3K.png&quot;}}]"></top-brands>
 <flash-sale-and-vertical-products :data="{&quot;flash_sale_title&quot;:&quot;Best &lt;b&gt;Deals&lt;\/b&gt;&quot;,&quot;vertical_products_1_title&quot;:&quot;Watches&quot;,&quot;vertical_products_2_title&quot;:&quot;Backpacks&quot;,&quot;vertical_products_3_title&quot;:&quot;Shirts&quot;}"></flash-sale-and-vertical-products>
 <banner-two-column :data="{&quot;banner_1&quot;:{&quot;image&quot;:{&quot;id&quot;:1339,&quot;filename&quot;:&quot;06 \u2013 1@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/kSSkGodUfAKYy1UVZ8CicO8oay5PKO4L3DdEE9Tw.png&quot;},&quot;call_to_action_url&quot;:&quot;\/categories\/ultraslim\/products&quot;,&quot;open_in_new_window&quot;:false},&quot;banner_2&quot;:{&quot;image&quot;:{&quot;id&quot;:1338,&quot;filename&quot;:&quot;07 \u2013 1@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/VVyvSfw4dAZI57qelPofORurzNNc7rDlsxVbTO5m.png&quot;},&quot;call_to_action_url&quot;:&quot;\/categories\/watches\/products&quot;,&quot;open_in_new_window&quot;:false}}"></banner-two-column>
 <product-grid :data="[&quot;Mobiles&quot;,&quot;Fashion&quot;,&quot;Laptops&quot;,&quot;Tablets&quot;]"></product-grid>
 <banner-three-column :data="{&quot;banner_1&quot;:{&quot;image&quot;:{&quot;id&quot;:787,&quot;filename&quot;:&quot;08@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/QXeAdEOGLNAIj5Ntx7prAuuHRJmqNebRckNhV5WS.png&quot;},&quot;call_to_action_url&quot;:&quot;\/categories\/home-appliances\/products&quot;,&quot;open_in_new_window&quot;:false},&quot;banner_2&quot;:{&quot;image&quot;:{&quot;id&quot;:785,&quot;filename&quot;:&quot;09@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/tUZc6W65OryxcoIDT1umT0irIynod8t904Q7bRbG.png&quot;},&quot;call_to_action_url&quot;:&quot;\/categories\/mobile-accessories\/products&quot;,&quot;open_in_new_window&quot;:false},&quot;banner_3&quot;:{&quot;image&quot;:{&quot;id&quot;:786,&quot;filename&quot;:&quot;10@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/32Z48wigiMEXJZLDUN20Ea0f7NTMKZHf93qHFtLg.png&quot;},&quot;call_to_action_url&quot;:&quot;\/categories\/gadgets\/products&quot;,&quot;open_in_new_window&quot;:false}}"></banner-three-column>
 <product-tabs-two :data="{&quot;title&quot;:&quot;Hot Best Sellers&quot;,&quot;tabs&quot;:[&quot;Latest Products&quot;,&quot;Recently Viewed&quot;,&quot;On Sale&quot;,&quot;Top Selling&quot;]}"></product-tabs-two>
 <banner-one-column :banner="{&quot;image&quot;:{&quot;id&quot;:1102,&quot;filename&quot;:&quot;11@3x-min.png&quot;,&quot;path&quot;:&quot;https:\/\/fleetcart.envaysoft.com\/storage\/media\/kRb5N2mGVnso21KKTsxenE4GuH3fjej5r2m8vY8V.png&quot;},&quot;call_to_action_url&quot;:&quot;\/categories\/home-appliances\/products&quot;,&quot;open_in_new_window&quot;:true}"></banner-one-column>
-<newsletter-subscription inline-template>
-<section class="subscribe-wrap d-flex justify-content-center">
-<div class="container">
-<div class="row justify-content-center">
-<div class="col-xl-14 col-lg-18">
-<div class="subscribe">
-<div class="row align-items-center">
-<div class="col-lg-9 col-md-18">
-<div class="subscribe-text">
-<span class="title">
-اشترك في نشرتنا الإخبارية
-</span>
-<span class="sub-title">
-اشترك في نشرتنا الإخبارية واحصل على إشعار حول الخصومات.
-</span>
-</div>
-</div>
-<div class="col-lg-9 col-md-18">
-<div class="subscribe-field">
-<form @submit.prevent="subscribe">
-<div class="form-group">
-<input type="text" v-model="email" class="form-control" placeholder="أدخل عنوان بريدك الالكتروني">
-<button type="submit" class="btn btn-primary btn-subscribe" v-if="subscribed" v-cloak>
-<i class="las la-check"></i>
-مشترك
-</button>
-<button type="submit" class="btn btn-primary btn-subscribe" :class="{ 'btn-loading': subscribing }" v-else v-cloak>
-الإشتراك
-</button>
-</div>
-</form>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</newsletter-subscription>
 <footer class="footer-wrap">
 <div class="container">
 <div class="footer">
@@ -56,7 +16,7 @@
 <div class="row">
 <div class="col-lg-5 col-md-8">
 <div class="contact-us">
-<h4 class="title">اتصل بنا</h4>
+<h4 class="title">Contact Us</h4>
 <ul class="list-inline contact-info">
 <li>
 <i class="las la-phone"></i>
@@ -64,7 +24,7 @@
 </li>
 <li>
 <i class="las la-envelope"></i>
-<span><a href="cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="29484d444047694c44484045074a4644">[email&#160;protected]</a></span>
+<span><a href="cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="7213161f1b1c32171f131b1e5c111d1f">[email&#160;protected]</a></span>
 </li>
 <li>
 <i class="las la-map"></i>
@@ -97,26 +57,26 @@
 </div>
 <div class="col-lg-3 col-md-5">
 <div class="footer-links">
-<h4 class="title">حسابي</h4>
+<h4 class="title">My Account</h4>
 <ul class="list-inline">
 <li>
-<a href="ar/login.html">
-لوحة القيادة
+<a href="en/login.html">
+Dashboard
 </a>
 </li>
 <li>
-<a href="ar/login.html">
-طلباتي
+<a href="en/login.html">
+My Orders
 </a>
 </li>
 <li>
-<a href="ar/login.html">
-تعليقاتي
+<a href="en/login.html">
+My Reviews
 </a>
 </li>
 <li>
-<a href="ar/login.html">
-ملفي
+<a href="en/login.html">
+My Profile
 </a>
 </li>
 </ul>
@@ -127,27 +87,27 @@
 <h4 class="title">Our Services</h4>
 <ul class="list-inline">
 <li>
-<a href="ar/about-us.html" target="_self">
+<a href="en/about-us.html" target="_self">
 About Us
 </a>
 </li>
 <li>
-<a href="ar/return-policy.html" target="_self">
+<a href="en/return-policy.html" target="_self">
 Return Policy
 </a>
 </li>
 <li>
-<a href="ar/faq.html" target="_self">
+<a href="en/faq.html" target="_self">
 FAQ
 </a>
 </li>
 <li>
-<a href="ar/privacy-policy.html" target="_self">
+<a href="en/privacy-policy.html" target="_self">
 Privacy &amp; Policy
 </a>
 </li>
 <li>
-<a href="ar/terms-conditions.html" target="_self">
+<a href="en/terms-conditions.html" target="_self">
 Terms Of Use
 </a>
 </li>
@@ -159,27 +119,27 @@ Terms Of Use
 <h4 class="title">Information</h4>
 <ul class="list-inline">
 <li>
-<a href="ar/categories/hot-sale/products.html" target="_self">
+<a href="en/categories/hot-sale/products.html" target="_self">
 New Arrivals
 </a>
 </li>
 <li>
-<a href="ar/brands/samsung/products.html" target="_self">
+<a href="en/brands/samsung/products.html" target="_self">
 Specials
 </a>
 </li>
 <li>
-<a href="ar/brands/msi/products.html" target="_self">
+<a href="en/brands/msi/products.html" target="_self">
 Hot Deals
 </a>
-</li>
+ </li>
 <li>
-<a href="ar/categories/backpacks/products.html" target="_self">
+<a href="en/categories/backpacks/products.html" target="_self">
 Backpacks
 </a>
 </li>
 <li>
-<a href="ar/categories/mens-fashion/products.html" target="_self">
+<a href="en/categories/mens-fashion/products.html" target="_self">
 Men&#039;s Fashion
 </a>
 </li>
@@ -188,58 +148,58 @@ Men&#039;s Fashion
 </div>
 <div class="col-lg-4 col-md-7">
 <div class="footer-links footer-tags">
-<h4 class="title">العلامات</h4>
+<h4 class="title">Tags</h4>
 <ul class="list-inline">
 <li>
-<a href="ar/tags/accessories/products.html">
+<a href="en/tags/accessories/products.html">
 Accessories
 </a>
 </li>
 <li>
-<a href="ar/tags/electronics/products.html">
+<a href="en/tags/electronics/products.html">
 Electronics
 </a>
 </li>
 <li>
-<a href="ar/tags/entertainment/products.html">
+<a href="en/tags/entertainment/products.html">
 Entertainment
 </a>
 </li>
 <li>
-<a href="ar/tags/fashion/products.html">
+<a href="en/tags/fashion/products.html">
 Fashion
 </a>
 </li>
 <li>
-<a href="ar/tags/gadgets/products.html">
+<a href="en/tags/gadgets/products.html">
 Gadgets
 </a>
 </li>
 <li>
-<a href="ar/tags/hot-deals/products.html">
+<a href="en/tags/hot-deals/products.html">
 Hot deals
- </a>
+</a>
 </li>
 <li>
-<a href="ar/tags/lifestyle/products.html">
+<a href="en/tags/lifestyle/products.html">
 Lifestyle
 </a>
 </li>
 <li>
-<a href="ar/tags/smartphone/products.html">
+<a href="en/tags/smartphone/products.html">
 Smartphone
 </a>
 </li>
 </ul>
 </div>
-</div>
+ </div>
 </div>
 </div>
 <div class="footer-bottom">
 <div class="row align-items-center">
 <div class="col-md-9 col-sm-18">
 <div class="footer-text">
-Copyright © <a href="ar.html">FleetCart</a> 2022. All rights reserved.
+Copyright © <a href="en.html">FleetCart</a> 2022. All rights reserved.
 </div>
 </div>
 <div class="col-md-9 col-sm-18">
@@ -255,7 +215,7 @@ Copyright © <a href="ar.html">FleetCart</a> 2022. All rights reserved.
 <div class="overlay"></div>
 <aside class="sidebar-menu-wrap">
 <div class="sidebar-menu-header">
-<h4>التنقل</h4>
+<h4>Navigation</h4>
 <div class="sidebar-menu-close">
 <i class="las la-times"></i>
 </div>
@@ -263,12 +223,12 @@ Copyright © <a href="ar.html">FleetCart</a> 2022. All rights reserved.
 <ul class="nav nav-tabs sidebar-menu-tab" role="tablist">
 <li class="nav-item">
 <a class="nav-link active" data-toggle="tab" href="#main-menu">
-قائمة طعام
+Menu
 </a>
 </li>
 <li class="nav-item">
 <a class="nav-link" data-toggle="tab" href="#category-menu">
-التصنيفات
+Categories
 </a>
 </li>
 </ul>
@@ -276,27 +236,27 @@ Copyright © <a href="ar.html">FleetCart</a> 2022. All rights reserved.
 <div id="main-menu" class="tab-pane active">
 <ul class="list-inline sidebar-menu">
 <li class="">
-<a href="ar/products.html" class="menu-item" target="_self">
+<a href="en/products.html" class="menu-item" target="_self">
 Shop
 </a>
 </li>
 <li class="">
-<a href="ar/brands.html" class="menu-item" target="_self">
+<a href="en/brands.html" class="menu-item" target="_self">
 Brands
 </a>
 </li>
 <li class="">
-<a href="ar/about-us.html" class="menu-item" target="_self">
+<a href="en/about-us.html" class="menu-item" target="_self">
 About Us
 </a>
 </li>
 <li class="">
-<a href="ar/terms-conditions.html" class="menu-item" target="_self">
+<a href="en/terms-conditions.html" class="menu-item" target="_self">
 Terms Of Use
 </a>
 </li>
 <li class="">
-<a href="ar/faq.html" class="menu-item" target="_self">
+<a href="en/faq.html" class="menu-item" target="_self">
 FAQ
 </a>
 </li>
@@ -310,7 +270,7 @@ BUY THEME!
 <div id="category-menu" class="tab-pane">
 <ul class="list-inline sidebar-menu">
 <li class="dropdown multi-level">
-<a href="ar/categories/electronics/products.html" class="menu-item" target="_self">
+<a href="en/categories/electronics/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-car-battery"></i>
 </span>
@@ -318,165 +278,165 @@ Electronics
 </a>
 <ul class="list-inline">
 <li class="dropdown sub-menu">
-<a href="ar/categories/mobiles/products.html" target="_self">
+<a href="en/categories/mobiles/products.html" target="_self">
 Mobiles
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/smartphones/products.html" target="_self">
+<a href="en/categories/smartphones/products.html" target="_self">
 Smartphones
 </a>
 </li>
 <li class="">
-<a href="ar/categories/android/products.html" target="_self">
+<a href="en/categories/android/products.html" target="_self">
 Android
 </a>
 </li>
 <li class="">
-<a href="ar/categories/iphone/products.html" target="_self">
+<a href="en/categories/iphone/products.html" target="_self">
 iPhone
 </a>
 </li>
 <li class="">
-<a href="ar/categories/featured/products.html" target="_self">
+<a href="en/categories/featured/products.html" target="_self">
 Featured
 </a>
 </li>
 <li class="">
-<a href="ar/categories/refurbished/products.html" target="_self">
+<a href="en/categories/refurbished/products.html" target="_self">
 Refurbished
 </a>
 </li>
 <li class="">
-<a href="ar/categories/brands/products.html" target="_self">
+<a href="en/categories/brands/products.html" target="_self">
 Brands
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/mobile-accessories/products.html" target="_self">
+<a href="en/categories/mobile-accessories/products.html" target="_self">
 Mobile Accessories
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/cases-covers/products.html" target="_self">
+<a href="en/categories/cases-covers/products.html" target="_self">
 Cases &amp; Covers
 </a>
 </li>
 <li class="">
-<a href="ar/categories/cables/products.html" target="_self">
+<a href="en/categories/cables/products.html" target="_self">
 Cables
 </a>
 </li>
 <li class="">
-<a href="ar/categories/chargers/products.html" target="_self">
+<a href="en/categories/chargers/products.html" target="_self">
 Chargers
 </a>
 </li>
 <li class="">
-<a href="ar/categories/power-bank/products.html" target="_self">
+<a href="en/categories/power-bank/products.html" target="_self">
 Power Bank
 </a>
 </li>
 <li class="">
-<a href="ar/categories/mobile-headphones/products.html" target="_self">
+<a href="en/categories/mobile-headphones/products.html" target="_self">
 Headphones
 </a>
 </li>
 <li class="">
-<a href="ar/categories/screen-protectors/products.html" target="_self">
+<a href="en/categories/screen-protectors/products.html" target="_self">
 Screen Protectors
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/hot-brands/products.html" target="_self">
+<a href="en/categories/hot-brands/products.html" target="_self">
 Hot Brands
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/oneplus/products.html" target="_self">
+<a href="en/categories/oneplus/products.html" target="_self">
 OnePlus
 </a>
 </li>
 <li class="">
-<a href="ar/categories/apple/products.html" target="_self">
+<a href="en/categories/apple/products.html" target="_self">
 Apple
 </a>
 </li>
 <li class="">
-<a href="ar/categories/samsung/products.html" target="_self">
+<a href="en/categories/samsung/products.html" target="_self">
 Samsung
 </a>
 </li>
 <li class="">
-<a href="ar/categories/huawei/products.html" target="_self">
+<a href="en/categories/huawei/products.html" target="_self">
 Huawei
 </a>
 </li>
 <li class="">
-<a href="ar/categories/sony/products.html" target="_self">
+<a href="en/categories/sony/products.html" target="_self">
 Sony
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/laptops/products.html" target="_self">
+<a href="en/categories/laptops/products.html" target="_self">
 Laptops
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/mackbook/products.html" target="_self">
+<a href="en/categories/mackbook/products.html" target="_self">
 Mackbook
 </a>
 </li>
 <li class="">
-<a href="ar/categories/gaming/products.html" target="_self">
+<a href="en/categories/gaming/products.html" target="_self">
 Gaming
 </a>
 </li>
 <li class="">
-<a href="ar/categories/ultraslim/products.html" target="_self">
+<a href="en/categories/ultraslim/products.html" target="_self">
 Ultraslim
 </a>
 </li>
 <li class="">
-<a href="ar/categories/tablets/products.html" target="_self">
+<a href="en/categories/tablets/products.html" target="_self">
 Tablets
 </a>
 </li>
 <li class="">
-<a href="ar/categories/all-laptops/products.html" target="_self">
+<a href="en/categories/all-laptops/products.html" target="_self">
 All Laptops
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/computer-accessories/products.html" target="_self">
+<a href="en/categories/computer-accessories/products.html" target="_self">
 Computer Accessories
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/monitors/products.html" target="_self">
+<a href="en/categories/monitors/products.html" target="_self">
 Monitors
 </a>
 </li>
 <li class="">
-<a href="ar/categories/keyboard-mouse/products.html" target="_self">
+<a href="en/categories/keyboard-mouse/products.html" target="_self">
 Keyboard &amp; Mouse
 </a>
 </li>
 <li class="">
-<a href="ar/categories/pendrive/products.html" target="_self">
+<a href="en/categories/pendrive/products.html" target="_self">
 Pendrive
 </a>
 </li>
 <li class="">
-<a href="ar/categories/speaker/products.html" target="_self">
+<a href="en/categories/speaker/products.html" target="_self">
 Speaker
 </a>
 </li>
@@ -485,7 +445,7 @@ Speaker
 </ul>
 </li>
 <li class="dropdown multi-level">
-<a href="ar/categories/mens-fashion/products.html" class="menu-item" target="_self">
+<a href="en/categories/mens-fashion/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-tshirt"></i>
 </span>
@@ -493,170 +453,170 @@ Men&#039;s Fashion
 </a>
 <ul class="list-inline">
 <li class="dropdown sub-menu">
-<a href="ar/categories/clothing/products.html" target="_self">
+<a href="en/categories/clothing/products.html" target="_self">
 Clothing
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/shirts/products.html" target="_self">
+<a href="en/categories/shirts/products.html" target="_self">
 Shirts
 </a>
 </li>
 <li class="">
-<a href="ar/categories/all-clothing/products.html" target="_self">
+<a href="en/categories/all-clothing/products.html" target="_self">
 All Clothing
 </a>
 </li>
 <li class="">
-<a href="ar/categories/sportswear/products.html" target="_self">
+<a href="en/categories/sportswear/products.html" target="_self">
 Sportswear
 </a>
 </li>
 <li class="">
-<a href="ar/categories/tees-polos/products.html" target="_self">
+<a href="en/categories/tees-polos/products.html" target="_self">
 Belts
 </a>
 </li>
 <li class="">
-<a href="ar/categories/pants/products.html" target="_self">
+<a href="en/categories/pants/products.html" target="_self">
 Pants
 </a>
 </li>
 <li class="">
-<a href="ar/categories/formal-shoes/products.html" target="_self">
+<a href="en/categories/formal-shoes/products.html" target="_self">
 Formal Shoes
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/shoes/products.html" target="_self">
-Shoes
+<a href="en/categories/shoes/products.html" target="_self">
+ Shoes
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/all-shoes/products.html" target="_self">
+<a href="en/categories/all-shoes/products.html" target="_self">
 All Shoes
 </a>
 </li>
 <li class="">
-<a href="ar/categories/sneakers/products.html" target="_self">
+<a href="en/categories/sneakers/products.html" target="_self">
 Sneakers
 </a>
 </li>
 <li class="">
-<a href="ar/categories/boots/products.html" target="_self">
+<a href="en/categories/boots/products.html" target="_self">
 Boots
 </a>
 </li>
 <li class="">
-<a href="ar/categories/sandals/products.html" target="_self">
+<a href="en/categories/sandals/products.html" target="_self">
 Sandals
 </a>
 </li>
 <li class="">
-<a href="ar/categories/slippers-flip-flops/products.html" target="_self">
+<a href="en/categories/slippers-flip-flops/products.html" target="_self">
 Slippers &amp; Flip-flops
 </a>
 </li>
 <li class="">
-<a href="ar/categories/sports-shoes/products.html" target="_self">
+<a href="en/categories/sports-shoes/products.html" target="_self">
 Sports Shoes
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/outerwear-jackets/products.html" target="_self">
+<a href="en/categories/outerwear-jackets/products.html" target="_self">
 Outerwear &amp; Jackets
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/trench/products.html" target="_self">
+<a href="en/categories/trench/products.html" target="_self">
 Trench
 </a>
 </li>
 <li class="">
-<a href="ar/categories/genuine-leather/products.html" target="_self">
+<a href="en/categories/genuine-leather/products.html" target="_self">
 Genuine Leather
 </a>
 </li>
 <li class="">
-<a href="ar/categories/down-jackets/products.html" target="_self">
+<a href="en/categories/down-jackets/products.html" target="_self">
 Down Jackets
 </a>
 </li>
 <li class="">
-<a href="ar/categories/wool-blends/products.html" target="_self">
+<a href="en/categories/wool-blends/products.html" target="_self">
 Wool &amp; Blends
 </a>
 </li>
 <li class="">
-<a href="ar/categories/suits-blazer/products.html" target="_self">
+<a href="en/categories/suits-blazer/products.html" target="_self">
 Suits &amp; Blazer
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/hot-sale/products.html" target="_self">
+<a href="en/categories/hot-sale/products.html" target="_self">
 Hot Sale
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/hoodies-sweatshirts/products.html" target="_self">
+<a href="en/categories/hoodies-sweatshirts/products.html" target="_self">
 Glasses
 </a>
 </li>
 <li class="">
-<a href="ar/categories/jackets/products.html" target="_self">
+<a href="en/categories/jackets/products.html" target="_self">
 Jackets
 </a>
 </li>
 <li class="">
-<a href="ar/categories/t-shirts/products.html" target="_self">
+<a href="en/categories/t-shirts/products.html" target="_self">
 T-Shirts
 </a>
 </li>
 <li class="">
-<a href="ar/categories/shirts-Qfb3u0OP/products.html" target="_self">
+<a href="en/categories/shirts-Qfb3u0OP/products.html" target="_self">
 Shirts
 </a>
 </li>
 <li class="">
-<a href="ar/categories/sweaters/products.html" target="_self">
+<a href="en/categories/sweaters/products.html" target="_self">
 Belts
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/bottoms/products.html" target="_self">
-Bottoms
+<a href="en/categories/bottoms/products.html" target="_self">
+ Bottoms
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/casual-pants/products.html" target="_self">
+<a href="en/categories/casual-pants/products.html" target="_self">
 Casual Pants
 </a>
 </li>
 <li class="">
-<a href="ar/categories/sweatpants/products.html" target="_self">
+<a href="en/categories/sweatpants/products.html" target="_self">
 Sweatpants
 </a>
 </li>
 <li class="">
-<a href="ar/categories/cargo-pants/products.html" target="_self">
+<a href="en/categories/cargo-pants/products.html" target="_self">
 Cargo Pants
 </a>
 </li>
 <li class="">
-<a href="ar/categories/jeans/products.html" target="_self">
+<a href="en/categories/jeans/products.html" target="_self">
 Jeans
 </a>
 </li>
 <li class="">
-<a href="ar/categories/harem-pants/products.html" target="_self">
+<a href="en/categories/harem-pants/products.html" target="_self">
 Harem Pants
 </a>
 </li>
@@ -665,7 +625,7 @@ Harem Pants
 </ul>
 </li>
 <li class="dropdown multi-level">
-<a href="ar/categories/laptops/products.html" class="menu-item" target="_self">
+<a href="en/categories/laptops/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-laptop"></i>
 </span>
@@ -673,29 +633,29 @@ Laptops
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/brands/hp/products.html" target="_self">
+<a href="en/brands/hp/products.html" target="_self">
 HP
 </a>
 </li>
 <li class="">
-<a href="ar/categories/huawei/products.html" target="_self">
+<a href="en/categories/huawei/products.html" target="_self">
 Huawei
 </a>
 </li>
 <li class="">
-<a href="ar/brands/asus/products.html" target="_self">
+<a href="en/brands/asus/products.html" target="_self">
 Asus
 </a>
 </li>
 <li class="">
-<a href="ar/brands/apple/products.html" target="_self">
+<a href="en/brands/apple/products.html" target="_self">
 Apple
 </a>
 </li>
 </ul>
 </li>
 <li class="">
-<a href="ar/categories/mobiles/products.html" class="menu-item" target="_self">
+<a href="en/categories/mobiles/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-mobile"></i>
 </span>
@@ -703,7 +663,7 @@ Mobiles
 </a>
 </li>
 <li class="dropdown multi-level">
-<a href="ar/categories/electronics/products.html" class="menu-item" target="_self">
+<a href="en/categories/electronics/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-microchip"></i>
 </span>
@@ -711,165 +671,165 @@ Consumer Electronics
 </a>
 <ul class="list-inline">
 <li class="dropdown sub-menu">
-<a href="ar/categories/mobiles/products.html" target="_self">
+<a href="en/categories/mobiles/products.html" target="_self">
 Mobiles
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/smartphones/products.html" target="_self">
+<a href="en/categories/smartphones/products.html" target="_self">
 Smartphones
 </a>
 </li>
 <li class="">
-<a href="ar/categories/android/products.html" target="_self">
+<a href="en/categories/android/products.html" target="_self">
 Android
 </a>
 </li>
 <li class="">
-<a href="ar/categories/iphone/products.html" target="_self">
+<a href="en/categories/iphone/products.html" target="_self">
 iPhone
 </a>
 </li>
 <li class="">
-<a href="ar/categories/featured/products.html" target="_self">
+<a href="en/categories/featured/products.html" target="_self">
 Featured
 </a>
 </li>
 <li class="">
-<a href="ar/categories/refurbished/products.html" target="_self">
+<a href="en/categories/refurbished/products.html" target="_self">
 Refurbished
 </a>
 </li>
 <li class="">
-<a href="ar/categories/brands/products.html" target="_self">
+<a href="en/categories/brands/products.html" target="_self">
 Brands
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/mobile-accessories/products.html" target="_self">
+<a href="en/categories/mobile-accessories/products.html" target="_self">
 Mobile Accessories
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/cases-covers/products.html" target="_self">
+<a href="en/categories/cases-covers/products.html" target="_self">
 Cases &amp; Covers
 </a>
 </li>
 <li class="">
-<a href="ar/categories/cables/products.html" target="_self">
+<a href="en/categories/cables/products.html" target="_self">
 Cables
 </a>
 </li>
 <li class="">
-<a href="ar/categories/chargers/products.html" target="_self">
+<a href="en/categories/chargers/products.html" target="_self">
 Chargers
 </a>
 </li>
 <li class="">
-<a href="ar/categories/power-bank/products.html" target="_self">
+<a href="en/categories/power-bank/products.html" target="_self">
 Power Bank
 </a>
 </li>
 <li class="">
-<a href="ar/categories/mobile-headphones/products.html" target="_self">
+<a href="en/categories/mobile-headphones/products.html" target="_self">
 Headphones
 </a>
 </li>
 <li class="">
-<a href="ar/categories/screen-protectors/products.html" target="_self">
+<a href="en/categories/screen-protectors/products.html" target="_self">
 Screen Protectors
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/hot-brands/products.html" target="_self">
+<a href="en/categories/hot-brands/products.html" target="_self">
 Hot Brands
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/oneplus/products.html" target="_self">
+<a href="en/categories/oneplus/products.html" target="_self">
 OnePlus
 </a>
 </li>
 <li class="">
-<a href="ar/categories/apple/products.html" target="_self">
+<a href="en/categories/apple/products.html" target="_self">
 Apple
 </a>
 </li>
 <li class="">
-<a href="ar/categories/samsung/products.html" target="_self">
+<a href="en/categories/samsung/products.html" target="_self">
 Samsung
 </a>
 </li>
 <li class="">
-<a href="ar/categories/huawei/products.html" target="_self">
+<a href="en/categories/huawei/products.html" target="_self">
 Huawei
 </a>
 </li>
 <li class="">
-<a href="ar/categories/sony/products.html" target="_self">
+<a href="en/categories/sony/products.html" target="_self">
 Sony
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/laptops/products.html" target="_self">
+<a href="en/categories/laptops/products.html" target="_self">
 Laptops
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/mackbook/products.html" target="_self">
+<a href="en/categories/mackbook/products.html" target="_self">
 Mackbook
 </a>
 </li>
 <li class="">
-<a href="ar/categories/gaming/products.html" target="_self">
+<a href="en/categories/gaming/products.html" target="_self">
 Gaming
 </a>
 </li>
 <li class="">
-<a href="ar/categories/ultraslim/products.html" target="_self">
+<a href="en/categories/ultraslim/products.html" target="_self">
 Ultraslim
 </a>
 </li>
 <li class="">
-<a href="ar/categories/tablets/products.html" target="_self">
+<a href="en/categories/tablets/products.html" target="_self">
 Tablets
 </a>
 </li>
 <li class="">
-<a href="ar/categories/all-laptops/products.html" target="_self">
+<a href="en/categories/all-laptops/products.html" target="_self">
 All Laptops
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown sub-menu">
-<a href="ar/categories/computer-accessories/products.html" target="_self">
+<a href="en/categories/computer-accessories/products.html" target="_self">
 Computer Accessories
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/monitors/products.html" target="_self">
+<a href="en/categories/monitors/products.html" target="_self">
 Monitors
 </a>
 </li>
 <li class="">
-<a href="ar/categories/keyboard-mouse/products.html" target="_self">
+<a href="en/categories/keyboard-mouse/products.html" target="_self">
 Keyboard &amp; Mouse
 </a>
 </li>
 <li class="">
-<a href="ar/categories/pendrive/products.html" target="_self">
+<a href="en/categories/pendrive/products.html" target="_self">
 Pendrive
 </a>
 </li>
 <li class="">
-<a href="ar/categories/speaker/products.html" target="_self">
+<a href="en/categories/speaker/products.html" target="_self">
 Speaker
 </a>
 </li>
@@ -878,7 +838,7 @@ Speaker
 </ul>
 </li>
 <li class="">
-<a href="ar/categories/televisions/products.html" class="menu-item" target="_self">
+<a href="en/categories/televisions/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-tv"></i>
 </span>
@@ -886,7 +846,7 @@ Televisions
 </a>
 </li>
 <li class="">
-<a href="ar/categories/watches/products.html" class="menu-item" target="_self">
+<a href="en/categories/watches/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="lar la-clock"></i>
 </span>
@@ -894,7 +854,7 @@ Watches
 </a>
 </li>
 <li class="dropdown multi-level">
-<a href="ar/categories/mens-fashion/products.html" class="menu-item" target="_self">
+<a href="en/categories/mens-fashion/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-tshirt"></i>
 </span>
@@ -902,19 +862,19 @@ Fashion
 </a>
 <ul class="list-inline">
 <li class="">
-<a href="ar/categories/mens-fashion/products.html" target="_self">
+<a href="en/categories/mens-fashion/products.html" target="_self">
 Men&#039;s Fashion
 </a>
 </li>
 <li class="">
-<a href="ar/categories/womens-fashion/products.html" target="_self">
+<a href="en/categories/womens-fashion/products.html" target="_self">
 Women&#039;s Fashion
 </a>
 </li>
 </ul>
 </li>
 <li class="">
-<a href="ar/categories/backpacks/products.html" class="menu-item" target="_self">
+<a href="en/categories/backpacks/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-suitcase-rolling"></i>
 </span>
@@ -922,7 +882,7 @@ Backpacks
 </a>
 </li>
 <li class="">
-<a href="ar/categories/tablets/products.html" class="menu-item" target="_self">
+<a href="en/categories/tablets/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-tablet"></i>
 </span>
@@ -930,7 +890,7 @@ Tablets
 </a>
 </li>
 <li class="">
-<a href="ar/categories/mobile-headphones/products.html" class="menu-item" target="_self">
+<a href="en/categories/mobile-headphones/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-headphones"></i>
 </span>
@@ -938,7 +898,7 @@ Headphones
 </a>
 </li>
 <li class="">
-<a href="ar/categories/hot-sale/products.html" class="menu-item" target="_blank">
+<a href="en/categories/hot-sale/products.html" class="menu-item" target="_blank">
 <span class="menu-item-icon">
 <i class="las la-fire"></i>
 </span>
@@ -946,7 +906,7 @@ Hot Sale
 </a>
 </li>
 <li class="">
-<a href="ar/categories/shoes/products.html" class="menu-item" target="_self">
+<a href="en/categories/shoes/products.html" class="menu-item" target="_self">
 <span class="menu-item-icon">
 <i class="las la-shoe-prints"></i>
 </span>
@@ -954,11 +914,11 @@ Shoes
 </a>
 </li>
 <li class="more-categories">
-<a href="ar/categories.html" class="menu-item">
+<a href="en/categories.html" class="menu-item">
 <span class="menu-item-icon">
 <i class="las la-plus-square"></i>
 </span>
-جميع الفئات
+All Categories
 </a>
 </li>
 </ul>
@@ -968,7 +928,7 @@ Shoes
 <sidebar-cart inline-template>
 <aside class="sidebar-cart-wrap">
 <div class="sidebar-cart-top">
-<h3 class="title">عربة التسوق</h3>
+<h3 class="title">Shopping Cart</h3>
 <div class="sidebar-cart-close">
 <i class="las la-times"></i>
 </div>
@@ -1060,97 +1020,29 @@ Shoes
 </g>
 </g>
 </svg>
-<h4>عربة التسوق فارغة</h4>
+<h4>Your cart is empty</h4>
 </div>
 </div>
 <div class="sidebar-cart-bottom" v-if="cartIsNotEmpty">
 <h5 class="sidebar-cart-subtotal">
-المجموع الفرعي
+Subtotal
 <span v-html="cart.subTotal.inCurrentCurrency.formatted"></span>
 </h5>
- <div class="sidebar-cart-actions">
-<a href="ar/cart.html" class="btn btn-default btn-view-cart">
-عرض السلة
+<div class="sidebar-cart-actions">
+<a href="en/cart.html" class="btn btn-default btn-view-cart">
+VIEW CART
 </a>
-<a href="ar/cart.html" class="btn btn-primary btn-checkout">
-الدفع
+<a href="en/cart.html" class="btn btn-primary btn-checkout">
+CHECKOUT
 </a>
 </div>
 </div>
 </aside>
 </sidebar-cart>
-<newsletter-popup inline-template>
-<div class="modal newsletter-wrap fade">
-<div class="modal-dialog modal-dialog-centered">
-<div class="modal-content">
-<div class="modal-body">
-<div class="newsletter-inner">
-<div class="newsletter-left">
-<h1 class="title">
-اشترك في نشرتنا الإخبارية
-</h1>
-<p class="sub-title">
-اشترك في نشرتنا الإخبارية واحصل على إشعار حول الخصومات.
-</p>
-<form @submit.prevent="subscribe" class="newsletter-form">
-<div class="form-group">
-<input type="text" v-model="email" class="form-control" placeholder="أدخل عنوان بريدك الالكتروني">
-<span class="error-message" v-if="error" v-text="error"></span>
-<button class="btn btn-primary btn-subscribe" v-if="subscribed">
-<i class="las la-check"></i>
-مشترك
-</button>
-<button class="btn btn-primary btn-subscribe" :class="{ 'btn-loading': subscribing }" v-else>
-الإشتراك
-</button>
-</div>
-<span class="error-message" v-if="error" v-text="error"></span>
-</form>
-<p class="info-text">
-بالاشتراك في النشرة الإخبارية لدينا فإنك توافق على موقعنا <a href="ar/privacy-policy.html">سياسة الخصوصية.</a>
-</p>
-<div class="form-group newsletter-checkbox">
-<div class="form-check">
-<input type="checkbox" v-model="disable_popup" id="do_not_show_popup_again">
-<label for="do_not_show_popup_again" class="form-check-label">
-لا تظهر هذه النافذة المنبثقة مرة أخرى
-</label>
-</div>
-</div>
-</div>
-<div class="newsletter-right" style="background-image: url(storage/media/VRkauQNSpdKMBmCJA6ZKgXAhfJ58YHKiTsYeVzt6.png)"></div>
-<button type="button" class="close" data-dismiss="modal">
-<i class="las la-times"></i>
-</button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</newsletter-popup>
-<cookie-bar inline-template>
-<div class="cookie-bar-wrap" :class="{ show: show }">
-<div class="container d-flex justify-content-center">
-<div class="col-xl-10 col-lg-12">
-<div class="row justify-content-center">
-<div class="cookie-bar">
-<div class="cookie-bar-text">
-يستخدم الموقع ملفات تعريف الارتباط لضمان حصولك على أفضل تجربة على موقعنا.
-</div>
-<div class="cookie-bar-action">
-<button class="btn btn-primary btn-accept" @click="accept">
-فهمتك!
-</button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</cookie-bar>
+
 <div class="theme-switcher">
 <div class="theme-switcher-close">
-<i class="las la-cog"></i>
+ <i class="las la-cog"></i>
 </div>
 <div class="theme-switcher-inner custom-scrollbar">
 <div class="panel-group">
@@ -1185,8 +1077,8 @@ Shoes
 <h6 class="title">Direction</h6>
 </div>
 <div class="direction-buttons">
-<a href="en.html" class="btn btn-ltr btn-default">LTR</a>
-<a href="ar.html" class="btn btn-rtl btn-primary">RTL</a>
+<a href="en.html" class="btn btn-ltr btn-primary">LTR</a>
+<a href="ar.html" class="btn btn-rtl btn-default">RTL</a>
 </div>
 </div>
 <div class="panel-group">
@@ -1201,23 +1093,11 @@ Purchase Now
 </div>
 </div>
 </div>
-<div class="fc-purchase-theme">
-<a href="https://codecanyon.net/item/fleetcart-laravel-ecommerce-system/23014826" target="_blank" class="fc-purchase-link">
-<div class="fc-purchase-price">
-<span>$</span>
-59
+
 </div>
-<div class="em-logo">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" xml:space="preserve">
-<path d="M12.869.088c-.572-.281-3.474.04-5.566 2.047-3.296 3.291-3.217 7.627-3.217 7.627s-.109.446-.573-.201c-1.016-1.295-.484-4.274-.424-4.689.084-.585-.289-.602-.444-.409-3.672 5.098-.356 9.272 1.815 10.597 2.542 1.551 7.556 1.55 9.553-2.85C16.501 6.731 13.586.439 12.869.088z" fill="#ffffff" />
-</svg>
-</div>
-</a>
-</div>
-</div>
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
-<script src="{{ asset('themes/storefront/js/app5ce3.js') }}"></script>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="{{ asset('themes/storefront/js/forever.js') }}"></script>
 </body>
 
-<!-- Mirrored from fleetcart.envaysoft.com/ar by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Mar 2022 00:57:06 GMT -->
+<!-- Mirrored from fleetcart.envaysoft.com/en by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Mar 2022 00:56:11 GMT -->
 </html>
